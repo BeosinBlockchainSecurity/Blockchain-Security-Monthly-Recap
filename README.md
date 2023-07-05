@@ -10,3 +10,4 @@
 - **Q1_2023_Global_Web3_Security_Report.pdf**
 - **April 2023-$94.07M lost in attacks.pdf**
 - **May 2023-$19.69M lost in total.pdf**
+- **H1_2023_Global_Web3_Security_Report,_AML_Analysis_&_Crypto_Regulatory.pdf**
